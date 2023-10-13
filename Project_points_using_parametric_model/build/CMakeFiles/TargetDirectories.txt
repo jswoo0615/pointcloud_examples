@@ -1,0 +1,3 @@
+/home/siruu/Desktop/SLAM/PointCloud_Tut/Project_points_using_parametric_model/build/CMakeFiles/project_inliers.dir
+/home/siruu/Desktop/SLAM/PointCloud_Tut/Project_points_using_parametric_model/build/CMakeFiles/edit_cache.dir
+/home/siruu/Desktop/SLAM/PointCloud_Tut/Project_points_using_parametric_model/build/CMakeFiles/rebuild_cache.dir
