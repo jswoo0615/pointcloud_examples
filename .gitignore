@@ -1,2 +1,16 @@
 tutorials.txt
 data/
+Filters/Extract_indices/build
+Filters/Extract_indices/data
+
+Filters/PassThrough_filter/build
+
+Filters/Project_points_using_parametric_model/build
+
+Filters/Removing_outlier/build
+
+
+Filters/Statistical_Outlier_Removal_Filter/build
+Filters/Statistical_Outlier_Removal_Filter/data
+
+Filters/VoxelGrid_filter/build
